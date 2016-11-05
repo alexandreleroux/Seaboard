@@ -1,10 +1,5 @@
 # ROLI Seaboard collaborative documentation
 
-Description: ROLI Seaboard collaborative documentation
-Version: 0.1
-
----
-
 Welcome! You just found a wealth of information to help you make the best out of your ROLI Seaboard.
 
 1. What was first started is a [guide to help you fully enjoy playing with your ROLI Seaboard](playing/)
