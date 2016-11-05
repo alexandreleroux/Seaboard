@@ -1,6 +1,8 @@
 # Contributing to this collaborative Seaboard guide
 
-Detailed step-by-step instructions:
+If you have [questions or suggestions, don't hesitate to let all of us know in the issues](https://github.com/alexandreleroux/Seaboard/issues).
+
+Editing the guide's content is fairly easy, here's the detailed step-by-step instructions:
 
 1. Login to GitHub, or create a free account if you don't have one
 2. Go to the page you want to modify
