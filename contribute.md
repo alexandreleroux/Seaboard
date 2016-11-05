@@ -1,6 +1,7 @@
 # Contributing to this
 
 Detailed step-by-step instruction:
+
 1. Login to GitHub, or create a free account if you don't have one
 2. Go to the page you want to modify
 3. Click on the little pen icon top-right of the page to edit it
