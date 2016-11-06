@@ -8,4 +8,13 @@ Welcome! You just found a wealth of information to help you make the best out of
 
 If you'd like to see anything else in here, [let me know in the issue tracker](https://github.com/alexandreleroux/Seaboard/issues)! :-)
 
-By the way I'm Alex, aka Satri. Amongst many other things, I'm an electronic musician. I play solos with modern synthesizers such as Moog Music's award-winning Animoog and Model 15 apps, as well as the ROLI Seaboard. You'll learn more about [my free albums of improvized solos here](http://animoog.org/satri).  I'm planning to record solos with my new ROLI Seaboard RISE 49, and just like my other albums, it will be Creative Commons-licensed. In the process of recording this album, I'm starting this documentation to keep track of valuable info I find. [You are invited to contribute to this guide](contribute.md). All Seaboard players will benefit from your insights.
+You're new to the ROLI Seaboard? I recommend these two 1-minute videos which efficiently demonstrate what kind of controller the ROLI Seaboard is:
+
+Short demo of the ROLI Seaboard:
+[![Short demo of the ROLI Seaboard](https://img.youtube.com/vi/cMdNDyW0dos/0.jpg)](https://www.youtube.com/watch?v=cMdNDyW0dos)
+
+Playing 'Cantor Digitalis' on the ROLI Seaboard: [![Cantor Digitalis on the ROLI Seaboard](https://img.youtube.com/vi/mC4pmokMwRo/0.jpg)](https://www.youtube.com/watch?v=mC4pmokMwRo)
+
+By the way I'm Alex, aka Satri. Amongst many other things, I'm an electronic musician. I play solos with modern synthesizers such as Moog Music's award-winning Animoog and Model 15 apps, as well as the ROLI Seaboard. You'll learn more about [my free albums of improvised solos here](http://animoog.org/satri).  I'm planning to record solos with my new ROLI Seaboard RISE 49, and just like my other albums, it will be Creative Commons-licensed. In the process of recording this album, I'm starting this documentation to keep track of valuable info I find.
+
+[You are invited to contribute to this guide](contribute.md). All Seaboard players will benefit from your insights. Thanks -- Alex / Satri

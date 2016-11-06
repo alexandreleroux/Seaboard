@@ -6,9 +6,15 @@ Let's define the sections of this guide:
 
 * Introduction
  * That's what you're reading right now
-* [Everything about its hardware](the-hardware.md)
-* [Connecting the ROLI ]
+* [Find and install new presets](../presets/README.md)
+* [Everything about its hardware](hardware.md)
+* Connecting the ROLI
+* [Software](software.md)
+* [Technique for playing the ROLI Seaboard](technique.md)
+ * This section is important ... and I'll start working on it soon
 * [Resources](resources.md)
  * YouTube videos, official manuals, related websites, social media and more  
 
-You're most probably looking for something specific. An easy way to reach your destination is by using the `search this project box` at the top right of this page. You can browse the guide simply by following links. If you see links that are in red, it means this part of the guide doesn't exist yet. Here's [now how easy it is to contribute to these pages](contribute.md).
+If you're looking for something specific, an easy way to reach your destination is by using the `search this project box` at the top right of this page. Otherwise, you can browse the guide simply by following its links.
+
+Here's [now how easy it is to contribute to these pages](contribute.md).
