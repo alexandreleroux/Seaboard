@@ -6,11 +6,11 @@ Let's define the sections of this guide:
 
 * Introduction
  * That's what you're reading right now
-* [Find and install new presets](../presets/README.md)
-* [Everything about its hardware](hardware.md)
-* Connecting the ROLI
+* [not written yet] [Find and install new presets](../presets/README.md)
+* [not written yet] [Everything about its hardware](hardware.md)
+* [not written yet] Connecting the ROLI
 * [Software](software.md)
-* [Technique for playing the ROLI Seaboard](technique.md)
+* [not written yet] [Technique for playing the ROLI Seaboard](technique.md)
  * This section is important ... and I'll start working on it soon
 * [Resources](resources.md)
  * YouTube videos, official manuals, related websites, social media and more  
