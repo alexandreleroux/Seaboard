@@ -1,10 +1,24 @@
+````
+┌┬┐┬─┐┌─┐┌─┐┌┬┐  ┬  ┬┌─┐┬─┐┌─┐┬┌─┐┌┐┌
+ ││├┬┘├─┤├┤  │   └┐┌┘├┤ ├┬┘└─┐││ ││││
+─┴┘┴└─┴ ┴└   ┴    └┘ └─┘┴└─└─┘┴└─┘┘└┘
+
+ _____                    __   _                                   _                 
+|  __ \                  / _| | |                                 (_)                
+| |  | |  _ __    __ _  | |_  | |_    __   __   ___   _ __   ___   _    ___    _ __  
+| |  | | | '__|  / _` | |  _| | __|   \ \ / /  / _ \ | '__| / __| | |  / _ \  | '_ \
+| |__| | | |    | (_| | | |   | |_     \ V /  |  __/ | |    \__ \ | | | (_) | | | | |
+|_____/  |_|     \__,_| |_|    \__|     \_/    \___| |_|    |___/ |_|  \___/  |_| |_|
+
+```
+
 # ROLI Seaboard collaborative documentation
 
 Welcome! You just found a wealth of information to help you make the best out of your ROLI Seaboard.
 
 1. What was first started is a [guide to help you fully enjoy playing with your ROLI Seaboard](/playing/)
 
-2. Eventually you'll find [documentation of the ROLI Seaboard presets](/presets/)
+2. Eventually you'll find _[not written yet]_ [documentation of the ROLI Seaboard presets](/presets/)
 
 If you'd like to see anything else in here, [let me know in the issue tracker](https://github.com/alexandreleroux/Seaboard/issues)! :-)
 

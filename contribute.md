@@ -1,3 +1,16 @@
+````
+┌┬┐┬─┐┌─┐┌─┐┌┬┐  ┬  ┬┌─┐┬─┐┌─┐┬┌─┐┌┐┌
+ ││├┬┘├─┤├┤  │   └┐┌┘├┤ ├┬┘└─┐││ ││││
+─┴┘┴└─┴ ┴└   ┴    └┘ └─┘┴└─└─┘┴└─┘┘└┘
+
+ _____                    __   _                                   _                 
+|  __ \                  / _| | |                                 (_)                
+| |  | |  _ __    __ _  | |_  | |_    __   __   ___   _ __   ___   _    ___    _ __  
+| |  | | | '__|  / _` | |  _| | __|   \ \ / /  / _ \ | '__| / __| | |  / _ \  | '_ \
+| |__| | | |    | (_| | | |   | |_     \ V /  |  __/ | |    \__ \ | | | (_) | | | | |
+|_____/  |_|     \__,_| |_|    \__|     \_/    \___| |_|    |___/ |_|  \___/  |_| |_|
+
+```
 # Contributing to this collaborative Seaboard guide
 
 If you have [questions or suggestions, don't hesitate to let all of us know in the issues](https://github.com/alexandreleroux/Seaboard/issues).
@@ -26,7 +39,7 @@ Why contribute? Many other Seaboard players will benefit from your insights. Tha
 
 I used the following tools:
 * [GitHub Desktop](https://desktop.github.com)
- * Use and sync a local copy of the documentation and easiily commit changes
+ * Use and sync a local copy of the documentation and easily commit changes
 * [Atom](https://atom.io)
  * Text editor particularly well suited for editing Markdown content from GitHub, including syntax highlight and output preview
  * Install the ['Markdown preview' Atom package](https://github.com/atom/markdown-preview) directly from the Atom settings panel. Use `control-shift-m` to activate
