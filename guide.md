@@ -1,17 +1,10 @@
-````
+[TOC](../README.md) > Playing
+```
 ┌┬┐┬─┐┌─┐┌─┐┌┬┐  ┬  ┬┌─┐┬─┐┌─┐┬┌─┐┌┐┌
  ││├┬┘├─┤├┤  │   └┐┌┘├┤ ├┬┘└─┐││ ││││
 ─┴┘┴└─┴ ┴└   ┴    └┘ └─┘┴└─└─┘┴└─┘┘└┘
-
- _____                    __   _                                   _                 
-|  __ \                  / _| | |                                 (_)                
-| |  | |  _ __    __ _  | |_  | |_    __   __   ___   _ __   ___   _    ___    _ __  
-| |  | | | '__|  / _` | |  _| | __|   \ \ / /  / _ \ | '__| / __| | |  / _ \  | '_ \
-| |__| | | |    | (_| | | |   | |_     \ V /  |  __/ | |    \__ \ | | | (_) | | | | |
-|_____/  |_|     \__,_| |_|    \__|     \_/    \___| |_|    |___/ |_|  \___/  |_| |_|
-
 ```
-# Learning to play the ROLI Seaboard
+# Learning to play and enjoy your ROLI Seaboard
 
 This is a collaborative guide that has the goal to document how to have fun with our ROLI Seaboards.
 
@@ -22,9 +15,12 @@ Let's define the sections of this guide:
 * _[not written yet]_ [Find and install new presets](../presets/README.md)
 * _[not written yet]_ [Everything about its hardware](hardware.md)
 * _[not written yet]_ Connecting the ROLI
-* [Software](software.md)
+* Software
+ * [Software overview](software.md)
+ * [Recording with Garageband](GarageBand.md)
+ * [Playing Animoog on the Seaboard](Animoog,md)
 * _[not written yet]_ [Technique for playing the ROLI Seaboard](technique.md)
- * This section is important ... and I'll start working on it soon
+ * This section is important ... and I hope to start working on it soon
 * [Resources](resources.md)
  * YouTube videos, official manuals, related websites, social media and more  
 * [Contribute](contribute.md)

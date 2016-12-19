@@ -1,15 +1,7 @@
-````
+```
 ┌┬┐┬─┐┌─┐┌─┐┌┬┐  ┬  ┬┌─┐┬─┐┌─┐┬┌─┐┌┐┌
  ││├┬┘├─┤├┤  │   └┐┌┘├┤ ├┬┘└─┐││ ││││
 ─┴┘┴└─┴ ┴└   ┴    └┘ └─┘┴└─└─┘┴└─┘┘└┘
-
- _____                    __   _                                   _                 
-|  __ \                  / _| | |                                 (_)                
-| |  | |  _ __    __ _  | |_  | |_    __   __   ___   _ __   ___   _    ___    _ __  
-| |  | | | '__|  / _` | |  _| | __|   \ \ / /  / _ \ | '__| / __| | |  / _ \  | '_ \
-| |__| | | |    | (_| | | |   | |_     \ V /  |  __/ | |    \__ \ | | | (_) | | | | |
-|_____/  |_|     \__,_| |_|    \__|     \_/    \___| |_|    |___/ |_|  \___/  |_| |_|
-
 ```
 
 # ROLI Seaboard collaborative documentation
@@ -33,3 +25,8 @@ Playing 'Cantor Digitalis' on the ROLI Seaboard:<br>
 By the way I'm Alex, aka Satri. Amongst many other things, I'm an electronic musician. I play solos with modern synthesizers such as Moog Music's award-winning Animoog and Model 15 apps, as well as the ROLI Seaboard. You'll learn more about [my free albums of improvised solos here](http://animoog.org/satri).  I'm planning to record solos with my new ROLI Seaboard RISE 49, and just like my other albums, it will be Creative Commons-licensed. In the process of recording this album, I'm starting this documentation to keep track of valuable info I find.
 
 [You are invited to contribute to this guide](/contribute.md). All Seaboard players will benefit from your insights. Thanks -- Alex / Satri
+
+# To Do
+
+* Merge main README.md and guide.md
+* Rename /playing/resources
