@@ -1,8 +1,7 @@
-```
-Version: 0.1
-```
-
-[TOC](README.md) > GarageBand
+'''
+Version: 0.1.1
+'''
+[TOC](../README.md) > [Software](README.md) > GarageBand
 ```
 ┌┬┐┬─┐┌─┐┌─┐┌┬┐  ┬  ┬┌─┐┬─┐┌─┐┬┌─┐┌┐┌
  ││├┬┘├─┤├┤  │   └┐┌┘├┤ ├┬┘└─┐││ ││││
@@ -63,9 +62,13 @@ Ready to explore new sound combinations? Play a Seaboard preset from the AudioUn
 No documented so far. [You can contribute](../contribute.md) to this section of this guide.
 
 
+# Updates to this documentation
+
+Learn here [how to ensure you don't miss improvements to this guide](TO-DO)
+
 # Life happens
 
-This page has been useful to you and you can spend a few more minutes? I'm preparing an album of improvised ROLI Seaboard solos. It will be available on http://satri.bandcamp.com. You can have an idea of my playing style thanks to my [previous albums of improvised Animoog and Model 15 solos](http://animoog.org/satri), which you will find [for free at the same place](http://satri.bandcamp.com).
+This page has been useful to you and you can spend a few more minutes? I'm preparing an album of improvised ROLI Seaboard RISE 49 solos. It will be available on http://satri.bandcamp.com. You can have an idea of my playing style thanks to my [previous albums of improvised Animoog and Model 15 solos](http://animoog.org/satri), which you will find [for free at the same place](http://satri.bandcamp.com).
 
 
 # TO-DO

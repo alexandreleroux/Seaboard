@@ -28,5 +28,3 @@ Mobile:
 Instrument:
 * [Animoog](Animoog.md)
 
-Recording:
-* [Garageband](GarageBand.md)
