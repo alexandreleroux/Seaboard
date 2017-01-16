@@ -7,10 +7,10 @@
 
 # Resources
 
-Not much to see here yet.
-
 * Official forums?
-* Facebook group: Seaboard players (GET NAME + URL) 
+* Facebook
+ * [Official ROLI Facebook page](https://www.facebook.com/ROLI/)
+ * [ROLI Seaboard Users group](https://www.facebook.com/groups/629189460565664/), I highly recommend joining this group  to ROLI Seaboard players
 
 ## Tutorials
 

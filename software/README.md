@@ -11,6 +11,7 @@
 
 Desktop:
 * Equator
+ * Runs on macOS and Windows
  * Download the additional presets. It's available as a `Equator Extended Library OSX 1.9.4.mpkg` from your [My ROLI](https://my.roli.com) webpage. These presets can also be downloaded directly from the Equator app in the Preset Browser > Online. As far as I can tell, these presets are not available for the iPad 'Seaboard 5D' app and thus make using Equator on the desktop more enticing than playing from your iPad.  
 * ROLI Dashboard
 * [ROLI Seaboard API](https://github.com/WeAreROLI/SeaboardAPI)
@@ -28,11 +29,11 @@ Mobile:
 
 ## Third-Party
 
-Recording:
-* [Garageband](GarageBand.md)
-
-Instrument:
-* [Animoog](Animoog.md)
+* [Recording audio](Recording-audio.md)
+* Recording in MPE MIDI:
+ * [Garageband](GarageBand.md)
+* Instruments:
+ * [Animoog](Animoog.md)
 
 
 ## Other
