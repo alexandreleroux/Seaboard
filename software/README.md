@@ -26,6 +26,8 @@ Mobile:
 
 * [Bitwig 8-track](https://www.bitwig.com/en/8-track/nektar)
 * MAX
+* [Strobe2 by fxpansion](https://support.roli.com/article/downloading-strobe2/)
+ * [Using Strobe2 with the Seaboard](https://support.roli.com/article/using-the-seaboard-with-strobe-2/)
 
 ## Third-Party
 

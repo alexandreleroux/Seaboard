@@ -34,6 +34,12 @@ Mandatory configuration requirements
 [source](http://forum.moogmusic.com/viewtopic.php?f=13&t=24292&p=160898#p160898):
   There have been no changes, polyphonic legato MIDI messages are handled the same in Animoog and Model 15 and they're compatible, they can control each-other. Both Animoog and Model 15 support incoming MPE messages, so they're great synths for per-note control. We're waiting for the MPE spec to be finalized to evaluate if we can add output MPE support.
 
+## Presets
+
+Animoog presets usually won't work well with the Seaboard.
+
+ADD GEERT & STEFFEN'S STUFF HERE. Plus link to the Song-haven presets and explanation.
+
 
 ## Multiple input MIDI sources
 
