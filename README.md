@@ -8,7 +8,7 @@
 
 Welcome! You just found a wealth of information to help you make the best out of your ROLI Seaboard.
 
-1. What was first started is a [guide to help you fully enjoy playing with your ROLI Seaboard](/playing/)
+1. What was first started is a [guide to help you fully enjoy playing with your ROLI Seaboard](guide.md)
 
 2. Eventually you'll find _[not written yet]_ [documentation of the ROLI Seaboard presets](/presets/)
 

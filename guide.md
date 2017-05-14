@@ -17,12 +17,13 @@ Let's define the sections of this guide:
 * _[not written yet]_ Connecting the ROLI
 * Software
  * [Software overview](software.md)
+ * [Recording with Ableton Live](Ableton-Live.md)
  * [Recording with Garageband](GarageBand.md)
  * [Playing Animoog on the Seaboard](Animoog,md)
 * _[not written yet]_ [Technique for playing the ROLI Seaboard](technique.md)
  * This section is important ... and I hope to start working on it soon
-* [Resources](resources.md)
- * YouTube videos, official manuals, related websites, social media and more  
+* [MIDI and the Seaboard](playing/MIDI.md)
+* [Resources](playing/resources.md)
 * [Contribute](contribute.md)
  * Here's [now how easy it is to contribute to these pages](contribute.md).
 
