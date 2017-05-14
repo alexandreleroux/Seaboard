@@ -28,10 +28,12 @@ Mobile:
 * MAX
 * [Strobe2 by fxpansion](https://support.roli.com/article/downloading-strobe2/)
  * [Using Strobe2 with the Seaboard](https://support.roli.com/article/using-the-seaboard-with-strobe-2/)
+ * [ROLI Seaboard with Strobe2 demo video](https://www.youtube.com/watch?v=_vaPX7gmHHo)
 
 ## Third-Party
 
 * [Recording audio](Recording-audio.md)
+* [Recording in Ableton Live](Ableton-Live.md)
 * Recording in MPE MIDI:
  * [Garageband](GarageBand.md)
 * Instruments:

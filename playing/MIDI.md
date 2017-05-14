@@ -23,7 +23,9 @@ Here's the answer to [What MIDI Messages Does The Seaboard Transmit?](https://su
 
 In the Seaboard app
 
-The official manual that you'll find the following crucial correspondences required for configuring your Seaboard with MIDI:
+The official manual that you'll find the following crucial correspondences required for configuring your Seaboard with MIDI. First step is to put your Seaboard in MIDI Mode, indicated by a white LED. MIDI Mode allows the Touch Faders to be assigned to any MIDI CCs using the Modulation Panel in Equator.
+
+Default MIDI CCs:
 * XY Touchpad
  * X axis: MIDI CC 113
  * Y axis: MIDI CC 114
