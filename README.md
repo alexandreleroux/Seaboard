@@ -30,3 +30,5 @@ By the way I'm Alex, aka Satri. Amongst many other things, I'm an electronic mus
 
 * Merge main README.md and guide.md
 * Rename /playing/resources
+* Create the guide as a decision tree
+* Add ASCII art

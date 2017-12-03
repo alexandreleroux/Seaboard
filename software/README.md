@@ -10,7 +10,7 @@
 ## Official software
 
 Desktop:
-* Equator
+* [Equator](Equator.md)
  * Runs on macOS and Windows
  * Download the additional presets. It's available as a `Equator Extended Library OSX 1.9.4.mpkg` from your [My ROLI](https://my.roli.com) webpage. These presets can also be downloaded directly from the Equator app in the Preset Browser > Online. As far as I can tell, these presets are not available for the iPad 'Seaboard 5D' app and thus make using Equator on the desktop more enticing than playing from your iPad.  
 * ROLI Dashboard
@@ -21,6 +21,8 @@ Mobile:
 * Seaboard 5D
  * iOS-only at the moment
  * Fewer presets available than the ROLI Equator desktop software
+* NOISE
+ * Focus on ROLI Blocks and the [ROLI Seaboard Block](https://roli.com/products/blocks/seaboard-block)
 
 ## Partners
 
@@ -38,6 +40,7 @@ Mobile:
  * [Garageband](GarageBand.md)
 * Instruments:
  * [Animoog](Animoog.md)
+* [List of MPE-compatible synths](http://www.rogerlinndesign.com/ls-recommended-sounds.html), including Desktop, Mobile apps and hardware synths
 
 
 ## Other
